@@ -12,6 +12,6 @@ public class NinController {
 
 	@GetMapping("/nin")
 	public String nin() {
-		return "Hello World!";
+		return "Hello World with Action!";
 	}
 }
